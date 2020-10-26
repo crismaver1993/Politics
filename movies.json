@@ -1,0 +1,34 @@
+{
+   "movies":[
+      {
+         "name":"Tarzan",
+         "img":"",
+         "desc":""
+      },
+      {
+         "name":"Movie2",
+         "img":"",
+         "desc":""
+      },
+      {
+         "name":"Movie3",
+         "img":"",
+         "desc":""
+      },
+      {
+         "name":"Movie4",
+         "img":"",
+         "desc":""
+      },
+      {
+         "name":"Movie5",
+         "img":"",
+         "desc":""
+      },
+      {
+         "name":"Movie6",
+         "img":"",
+         "desc":""
+      }
+   ]
+}
