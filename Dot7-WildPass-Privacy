@@ -8,6 +8,13 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at WildpaSs unless otherwise defined in this Privacy Policy.
 
+**LOCATION**
+Wildpass app uses the LOCATION permission in the background only when the user HAS THE APP OPEN and registers a new summit as COMPLETED.
+
+Obtaining the current location of the user, ALLOWS US TO HAVE ACCESS TO THE CURRENT COORDINATES, which are validated with the COORDINATES of the MOUNTAIN to validate if the HIKER is in the appropriate range. With this validation we prevent them from taking photos of the QR or from taking it down from the mountain and making false records.
+
+¡USER'S CURRENT LOCATION IS ONLY USED WHEN REGISTERING A NEW SUMMIT!
+
 **Information Collection and Use**
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
