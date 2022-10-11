@@ -8,12 +8,33 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at WildpaSs unless otherwise defined in this Privacy Policy.
 
-**LOCATION**
+**LOCATION and use**
 Wildpass app uses the LOCATION permission in the background only when the user HAS THE APP OPEN and registers a new summit as COMPLETED.
 
 Obtaining the current location of the user, ALLOWS US TO HAVE ACCESS TO THE CURRENT COORDINATES, which are validated with the COORDINATES of the MOUNTAIN to validate if the HIKER is in the appropriate range. With this validation we prevent them from taking photos of the QR or from taking it down from the mountain and making false records.
 
 ¡USER'S CURRENT LOCATION IS ONLY USED WHEN REGISTERING A NEW SUMMIT!
+
+
+**PERMISSIONS WE REQUEST**
+
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />. Allows to validate if the user has an Internet connection
+
+    <uses-permission android:name="android.permission.CAMERA" />. Allows access to the camera to scan the QR code and records an ascent
+    
+    <uses-permission android:name="android.permission.INTERNET" />. Allows whether to validate if the user has internet to update and register the information
+
+
+    Wildpass use those permissions that  Allows access to the current location of the user and obtain the current coordinates when registering a summit. 
+    THEY ARE ONLY USED WHILE REGISTERING A SUMMIT AND THE APP IS OPEN. They are never used in the background
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+
+
+
 
 **Information Collection and Use**
 
